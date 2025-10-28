@@ -11,3 +11,7 @@ print (15 == 15) # comparison - value
 student_name = "Mr. Jones"
 student_age = 17
 favorite_number = 14
+#Print each variable
+print(student_name)
+print(student_age)
+print(favorite_number)
