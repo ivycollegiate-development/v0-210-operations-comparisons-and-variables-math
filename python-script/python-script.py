@@ -11,3 +11,7 @@ print(15==15)
 student_name = "Super"
 student_age = 18
 favorite_number = 14
+#Print each varibale
+print(student_name)
+print(student_age)
+print(favorite_number)
