@@ -15,3 +15,11 @@ favorite_number = 14
 print(student_name)
 print(student_age)
 print(favorite_number)
+# perform calculations with variables
+num1 = 10
+num2 = 5
+# calculations with variables
+sum_result = num1 + num2
+difference = num1 - num2
+print(sum_result)
+print(difference)
